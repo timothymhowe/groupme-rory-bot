@@ -100,7 +100,7 @@ def rory_response(sender_name):
             } 
     
     elif x==4:
-        payload = get_random_rory_fact_payload()
+        payload = get_random_rory_fact_payload(GROUPME_BOT_ID)
     
     
     return payload
