@@ -1,5 +1,3 @@
-import re
-from datetime import datetime
 from random import randint
 from rory import get_random_rory_fact_payload
 
